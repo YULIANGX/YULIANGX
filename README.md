@@ -1,8 +1,8 @@
 ### <h1 align="center"> Hola, Soy Julian 👋</h1>
 
-<h3> Sobre mi </h3>
+<h3> Sobre mi: </h3>
 
--Desarollador web
+-Desarollador web <br>
 -Editor de videos
 
 <!--
