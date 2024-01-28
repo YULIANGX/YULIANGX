@@ -3,7 +3,9 @@
 <h3> Sobre mi: </h3>
 
 -Desarollador web <br>
--Editor de videos
+-Editor de videos <br>
+-Artista Marcial <br>
+
 
 <!--
 **YULIANGX/YULIANGX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
