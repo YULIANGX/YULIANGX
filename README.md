@@ -1,4 +1,4 @@
-### Hola, Soy Julian 👋
+### <p alging="center"> Hola, Soy Julian 👋</p>
 
 <!--
 **YULIANGX/YULIANGX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
