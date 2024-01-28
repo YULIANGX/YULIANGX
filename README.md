@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-
-## Sobre mi
+<h3> Sobre mi </h3>
 
 -Desarollador web
 -Editor de videos
